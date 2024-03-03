@@ -12,6 +12,10 @@ You have to execute the generate script every time the pywal colors change. You 
 
 To apply the changes to the current chromium instance, you either have to manually reload the theme using "Load unpacked" or you can restart the browser by typing `chrome://restart` in the search bar.
 
+## Examples
+
+![Examples](assets/examples.gif) 
+
 ## Credits
 
 [ChromiumPywal](https://github.com/metafates/ChromiumPywal) & [Pywalfox](https://github.com/Frewacom/pywalfox) - inspiration
